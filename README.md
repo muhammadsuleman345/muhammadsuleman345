@@ -1,22 +1,54 @@
 <h1 align="center">Hi 👋, I'm Muhammad Suleman Sharaf</h1>
-<h3 align="center">👋 About Me I'm a Software Engineering student at Bahria University. Currently, I'm learning Data Engineering, focusing on Snowflake and AWS Fundamentals. I'm passionate about building my skills and exploring the world of data.</h3>
 
-- 🔭 I’m currently working on **Acquiring and processing information on world's largest banks**
+<h3 align="center">Assalam o Alaikum 🙏</h3>
+<h3 align="center">
+  <span>&nbsp;🚀 Junior Cloud Data Engineer&nbsp;</span> |
+  <span>&nbsp;💻 Software Engineer&nbsp;</span> |
+  <span>&nbsp;📊 Data Enthusiast&nbsp;</span> |
+  <span>&nbsp;🌱 Lifelong Learner&nbsp;</span> |
+  <span>&nbsp;📚 Tech Explorer&nbsp;</span>
+</h3>
 
-- 🌱 I’m currently learning **ta Engineering, with a focus on Snowflake and AWS Fundamentals. I'm passionate about exploring the world of data and building my skills step by step.**
+---
 
-- 👯 I’m looking to collaborate on **Acquiring and processing information on world's largest banks**
+## 👨‍💻 About Me
 
-- 💬 Ask me about **Data engineering**
+I'm a passionate Software Engineering student at **Bahria University**, currently diving deep into the world of **Cloud Data Engineering**. My focus is on **AWS**, **Snowflake**, and **Databricks**, and I'm always eager to grow by working on real-world data challenges. I believe in learning by doing and love simplifying complex ideas into clean, scalable solutions.
 
-- 📫 How to reach me **msulemansharaf@gmail.com**
+- 🔭 Currently working on: **Analyzing data of the world’s largest banks**
+- 🌱 Learning: **Data Engineering with AWS, Snowflake, and Databricks**
+- 💬 Ask me about: **Cloud, Data Engineering & Python**
+- 📫 Reach me at: **msulemansharaf@gmail.com**
+- ⚡ Fun fact: **I enjoy debugging — it’s like solving a mystery! 🔍**
 
-- ⚡ Fun fact **I love turning complex data into simple insights.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-suleman-sharaf-6a5419366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-suleman-sharaf-6a5419366" height="30" width="40" /></a>
+## 🛠️ Skills & Tools
+
+### 🧠 Languages  
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### ☁️ Cloud Hosting  
+<p>
+  <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Tools  
+<p>
+  <img src="https://img.shields.io/badge/-Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Databricks-E62B1E?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/muhammad-suleman-sharaf-6a5419366" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
